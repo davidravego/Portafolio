@@ -1,3 +1,4 @@
+import React from 'react'
 import './App.css';
 import Principal from './paginas/principal'
 
