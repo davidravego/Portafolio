@@ -1,0 +1,32 @@
+.contenedorImagen{
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+
+.imagenRave{
+    border-radius:15px;
+    width: 700px;
+    height: 700px;
+}
+
+.contenedorDescripcionp {
+    width:100%;
+    color:#F6F6F6;
+    border: 1px solid #A2A2A2;
+    padding: 50px 25%;
+}
+
+.tituloDetalles{
+    color:white;
+}
+
+.descripcionDetalles{
+    margin:0;
+    color:white;
+}
+
+.logos{
+    width: 64px;
+    height: 64px;
+}
